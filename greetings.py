@@ -6,3 +6,4 @@ if __name__ == '__main__':
     greeting1 = greeting(user)
     print(greeting1)
     print("Prueba")
+    print(5+5)
